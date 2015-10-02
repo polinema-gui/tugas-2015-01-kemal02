@@ -1,0 +1,11 @@
+D:\Semester III\Pemograman GUI\Latihan Gui\Latihan Gui\bin\Debug\Latihan Gui.exe.config
+D:\Semester III\Pemograman GUI\Latihan Gui\Latihan Gui\obj\Debug\Latihan_Gui.Form1.resources
+D:\Semester III\Pemograman GUI\Latihan Gui\Latihan Gui\obj\Debug\Latihan_Gui.Resources.resources
+D:\Semester III\Pemograman GUI\Latihan Gui\Latihan Gui\obj\Debug\Latihan Gui.vbproj.GenerateResource.Cache
+D:\Semester III\Pemograman GUI\Latihan Gui\Latihan Gui\bin\Debug\Latihan Gui.exe
+D:\Semester III\Pemograman GUI\Latihan Gui\Latihan Gui\bin\Debug\Latihan Gui.pdb
+D:\Semester III\Pemograman GUI\Latihan Gui\Latihan Gui\bin\Debug\Latihan Gui.xml
+D:\Semester III\Pemograman GUI\Latihan Gui\Latihan Gui\obj\Debug\Latihan Gui.exe
+D:\Semester III\Pemograman GUI\Latihan Gui\Latihan Gui\obj\Debug\Latihan Gui.xml
+D:\Semester III\Pemograman GUI\Latihan Gui\Latihan Gui\obj\Debug\Latihan Gui.pdb
+D:\Semester III\Pemograman GUI\Latihan Gui\Latihan Gui\obj\Debug\Latihan Gui.vbprojResolveAssemblyReference.cache
